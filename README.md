@@ -1,13 +1,13 @@
-##EPIC MAIL SYSTEM API
+# EPIC MAIL SYSTEM API
 
 This is an online system which enables users to share information with there friends, families and workmates securely. 
 
-#This system built with :-
+## This system built with :-
 
 1. Python - Django Framework to write the system APIs.
 2. Reactjs - Javascript Framework to build the UI component.
 
-#Functionalities
+## Functionalities
 
 1. User should be able to create an account
 2. Registered User should be able login into the system.
